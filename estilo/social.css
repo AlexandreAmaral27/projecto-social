@@ -12,13 +12,13 @@ img{
 }
 a{
     display: block;
-    padding: 20px;
+    padding:20px;
     background-color: darkred;
     color: white;
     text-align: center;
     text-decoration: none;
     font-weight: bold;
-
+    margin-top: -10px;
 
 }
 a:hover{
